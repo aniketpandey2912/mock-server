@@ -2,15 +2,103 @@
   "users": [
     {
       "id": 1,
-      "name": "Gertrudis Tatterton",
-      "age": 18,
-      "email": "gtatterton0@ehow.com"
+      "username": "Aniket",
+      "email": "aniket@gmail.com",
+      "password": "aniket"
     },
     {
       "id": 2,
-      "name": "Gail Newbatt",
-      "age": 53,
-      "email": "gnewbatt1@un.org"
+      "name": "Saumya",
+      "email": "saumya@gmail.com",
+      "password": "saumya"
+    },
+    {
+      "id": 3,
+      "name": "Karan",
+      "email": "karan@gmail.com",
+      "password": "karan"
+    }
+  ],
+  "recipes": [
+    {
+      "id": 1,
+      "username": "Aniket",
+      "title": "Hazelnut Brownies",
+      "image": "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
+      "description": "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
+      "category": "Main Course",
+      "ingredients": ["Hazelnut", "Dark chocolate", "Flour", "Eggs"],
+      "instructions": "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water. Once melted, stir and set aside to cool a little.In another bowl, use an electric whisk to beat the eggs and sugar together for 5 mins until light and fluffy. Pour in the chocolate mixture and whisk briefly to combine. Sift in the flour and gently fold through the mixture, then add most of the pecans. Scrape the mixture into the tin and spread out with a spatula. Scatter over the last of the pecans and a good sprinkling of sea salt.Bake for 30-35 mins until set but a little gooey in the middle. Cool, then cut into squares and serve with ice cream and caramel sauce."
+    },
+    {
+      "id": 2,
+      "username": "Saumya",
+      "title": "Chocolate Pizza",
+      "image": "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
+      "description": "Want an enjoyable dessert the kids can help with? This easy Chocolate Pizza recipe makes a great dessert for a birthday party, movie night, or whenever you want something fun",
+      "category": "Starter",
+      "ingredients": ["Hazelnut", "Dark chocolate", "Flour", "Eggs"],
+      "instructions": "Want an enjoyable dessert the kids can help with? This easy Chocolate Pizza recipe makes a great dessert for a birthday party, movie night, or whenever you want something fun. We use a yeasted dough for the pizza crust, so all the sweetness comes from the chocolate and the toppings. Use our recommended toppings or customize with your favorites to make this family-friendly dessert extra tasty."
+    },
+    {
+      "id": 3,
+      "username": "Saumya",
+      "title": "Cake",
+      "image": "https://www.imperialsugar.com/sites/default/files/styles/recipe_image_node_full/public/recipe/Nutella-Cake-imperial.jpg?itok=2yLEL2JQ",
+      "description": "Nutella® Cake combines the rich flavor of chocolate cake with the creamy hazelnut taste of Nutella spread.",
+      "category": "Dessert",
+      "ingredients": ["Hazelnut", "Dark chocolate", "Flour", "Eggs"],
+      "instructions": "Nutella® Cake combines the rich flavor of chocolate cake with the creamy hazelnut taste of Nutella spread. Three layers of Chef Eddy's signature chocolate cake are encased in a generous amount of smooth Nutella buttercream frosting. Nutella Cake has a moist and fluffy texture with a delicate crumb that melts in your mouth. Chopped hazelnuts around the bottom of the Nutella Cake add an air of sophistication. Chef Eddy's Nutella Cake is decorated with a star tip for swirls of Nutella buttercream frosting."
+    },
+    {
+      "id": 4,
+      "username": "Saumya",
+      "title": "Peach Scones",
+      "image": "https://www.imperialsugar.com/sites/default/files/styles/recipe_image_node_full/public/recipe/peach-scones-imperial.jpg?itok=Gf4iSxgv",
+      "description": "Breakfast, brunch, or a snack – these Peach scones are the answer to what to bake. Whether you make these with fresh or frozen peaches, the outcome will deliciously be the same.",
+      "category": "Dessert",
+      "ingredients": ["Hazelnut", "Dark chocolate", "Flour", "Eggs"],
+      "instructions": "Breakfast, brunch, or a snack – these Peach scones are the answer to what to bake. Whether you make these with fresh or frozen peaches, the outcome will deliciously be the same. Scones can be made a day ahead and placed unbaked in refrigerator. The following day remove the scones from the refrigerator, preheat oven and these delicious pastries are ready in a flash"
+    },
+    {
+      "id": 5,
+      "username": "Aniket",
+      "title": "Brookies",
+      "image": "https://www.imperialsugar.com/sites/default/files/styles/recipe_image_node_full/public/recipe/Brookies-imperial.jpg?itok=q7oz_Esi",
+      "description": "Can’t decide between a chocolate chip cookie or a brownie? Make these Brookies and you'll enjoy the best of both worlds.",
+      "category": "Starter",
+      "ingredients": ["Hazelnut", "Dark chocolate", "Flour", "Eggs"],
+      "instructions": "Can’t decide between a chocolate chip cookie or a brownie? Make these Brookies and you'll enjoy the best of both worlds. Half chocolate chip cookie, half brownie – these delicious treats are the ideal all-occasion dessert recipe"
+    },
+    {
+      "id": 6,
+      "username": "Aniket",
+      "title": "Cheesecake",
+      "image": "https://www.imperialsugar.com/sites/default/files/styles/recipe_image_node_full/public/recipe/Blueberry-Cheesecake-Slab-Pie-imperial.jpg?itok=ij-7IGyD",
+      "description": "This Blueberry Cheesecake Slab Pie is a simple, yet delicious dessert.",
+      "category": "Main Course",
+      "ingredients": ["Hazelnut", "Dark chocolate", "Flour", "Eggs"],
+      "instructions": "This Blueberry Cheesecake Slab Pie is a simple, yet delicious dessert. A creamy cheesecake filling is packed with juicy blueberries and sits atop a graham cracker crust. Make this easy dessert for spring, an Easter party, or July 4th festivities"
+    },
+    {
+      "id": 7,
+      "username": "Karan",
+      "title": "Cheesecake",
+      "image": "https://www.imperialsugar.com/sites/default/files/styles/recipe_image_node_full/public/recipe/Lemon-Pudding-Cakes-imperial.jpg?itok=arvTyyLQ",
+      "description": "Don't be fooled! Looking at the picture, you'd think this dessert is complicated.",
+      "category": "Main Course",
+      "ingredients": ["Hazelnut", "Dark chocolate", "Flour", "Eggs"],
+      "instructions": "Don't be fooled! Looking at the picture, you'd think this dessert is complicated. But fear not. All you need is one simple batter. The luscious lemon custard layer develops all by itself in the oven. Even though this Lemon Pudding Cake recipe only contains 3 tablespoons of lemon juice, the zesty flavor intensity shines through and will satisfy anyone who loves lemony desserts. Make this for a baby shower, spring, or Easter celebration"
+    },
+    {
+      "id": 8,
+      "username": "Karan",
+      "title": "Oreo Slab Pie",
+      "image": "https://www.imperialsugar.com/sites/default/files/styles/recipe_image_node_full/public/recipe/Oreo-Slab-Pie-imperial.jpg?itok=ZXCQXgK5",
+      "description": "No bake? No problem with this easy-peasy Oreo Slab Pie.",
+      "category": "Starter",
+      "ingredients": ["Hazelnut", "Dark chocolate", "Flour", "Eggs"],
+      "instructions": "No bake? No problem with this easy-peasy Oreo Slab Pie. Smooth cream cheese, whipped cream, sour cream, hot fudge sauce, and crushed Oreos meld together in the refrigerator for a creamy pie that's big enough to feed a crowd. This make-ahead, semi-homemade dessert recipe is great for a potluck or picnic."
     }
   ]
 }
