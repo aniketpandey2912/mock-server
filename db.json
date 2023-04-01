@@ -149,7 +149,7 @@
     { "id": "2", "name": "Anurag", "level": "Medium" }
   ],
   "leaderboard": [
-    { "id": "1", "userID": "1", "score": "0" },
-    { "id": "2", "userID": "2", "score": "7" }
+    { "id": "1", "userID": "1", "name": "Aniket", "score": "0" },
+    { "id": "2", "userID": "2", "name": "Anurag", "score": "7" }
   ]
 }
