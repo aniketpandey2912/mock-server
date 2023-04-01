@@ -143,5 +143,13 @@
       "ticket": 400
     }
   ],
-  "data": []
+  "data": [],
+  "players": [
+    { "id": "1", "name": "Aniket", "level": "Easy" },
+    { "id": "2", "name": "Anurag", "level": "Medium" }
+  ],
+  "leaderboard": [
+    { "id": "1", "userID": "1", "score": "0" },
+    { "id": "2", "userID": "2", "score": "7" }
+  ]
 }
